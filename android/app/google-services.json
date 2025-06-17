@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391516268776",
+    "project_id": "join-n-go",
+    "storage_bucket": "join-n-go.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391516268776:android:7d7cfbeac27a8d55c7015d",
+        "android_client_info": {
+          "package_name": "com.project.joinngo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMmuGDXfV0EJjeOXy5Pq67dw48xTv6lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+# Dart & Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.idea/
+.vscode/
+*.iml
+
+# Firebase secrets (usuń jeśli chcesz je śledzić jawnie — niezalecane!)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+ter
