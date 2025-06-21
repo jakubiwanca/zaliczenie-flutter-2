@@ -9,10 +9,10 @@ cd zaliczenie-flutter-2
 This project uses Firebase. You need to configure it before running:
 
 -- Add google-services.json
-Go to Firebase Console
-Create a new project
-Add an Android app
-Download the google-services.json file
+Go to Firebase Console, 
+create a new project,
+add an Android app,
+download the google-services.json file.
 Place it inside:
 **android/app/google-services.json**
 
